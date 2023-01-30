@@ -1,5 +1,5 @@
-a=60
-b=740
+a=int(input('Enter a value :'))
+b=int(input('Enter b value :'))
 add=a+b
 print('The Sum of two values', add)
 sub=a-b
